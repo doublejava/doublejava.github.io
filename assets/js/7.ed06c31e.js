@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{307:function(t,n,s){"use strict";s.r(n);var e={data:function(){return{msg:"6666666666"}}},i=s(1),u=Object(i.a)(e,function(){var t=this.$createElement;return(this._self._c||t)("h1",[this._v(this._s(this.msg))])},[],!1,null,null,null);u.options.__file="world.vue";n.default=u.exports}}]);
